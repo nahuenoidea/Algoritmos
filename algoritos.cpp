@@ -11,7 +11,7 @@ int main()
 	        
 	}
 
-
+d fmng
 
 	scanf(" ");
 	return 0;
