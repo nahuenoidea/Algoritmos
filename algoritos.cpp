@@ -7,7 +7,9 @@ int main()
 	if (elec == "hola"){
 		printf("que onda\n");
 
-	} 
+	} else {
+	        
+	}
 
 
 
